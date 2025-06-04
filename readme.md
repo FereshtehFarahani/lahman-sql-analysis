@@ -1,6 +1,6 @@
 # Lahman SQL Analysis
 
-This project explores SQL queries on the [Lahman 2016 Baseball Database](http://www.seanlahman.com/baseball-archive/statistics/).  
+This project explores SQL queries on the Lahman 2016 Baseball Database.  
 The goal is to practice advanced SQL topics like joins, aggregation, and window functions.
 
 ## Query: Batting Average Growth Over 5 Years

@@ -12,9 +12,9 @@ This project includes queries that explore data analysis concepts such as:
 
 ## Queries
 
-**Batting Average Growth Over 5 Years**  
-Identify players with the highest improvement in batting average over a 5-year period using CTEs and joins.
-
-See the query: [`queries/batting_avg_growth_5_years.sql`](queries/batting_avg_growth_5_years.sql)
+- query 1: [`queries/batting_avg_growth_5_years.sql`](queries/batting_avg_growth_5_years.sql)
+- query 2: [`queries/top_10_home_run_seasons.sql`](queries/top_10_home_run_seasons.sql)
+- query 3: [`queries/home_runs_before_age_25.sql`](queries/home_runs_before_age_25.sql)
+- query 4: [`queries/yearly_vs_career_batting_avg.sql`](queries/yearly_vs_career_batting_avg.sql)
 
 
